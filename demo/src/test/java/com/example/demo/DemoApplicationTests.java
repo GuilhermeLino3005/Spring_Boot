@@ -1,10 +1,10 @@
-package dio.dio_spring_security;
+package com.example.demo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DioSpringSecurityApplicationTests {
+class DemoApplicationTests {
 
 	@Test
 	void contextLoads() {
